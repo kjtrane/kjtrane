@@ -1,18 +1,17 @@
 ### Technical Challenge
 
+Use any language / framework to accomplish the task. Time-boxed to 2 hours; Do as much as you can in 2 hours.
+
 #### Application requirements
 
-1. Acceptance Criteria 1: Use any language / framework to accomplish the task.
+1. Acceptance Criteria 1: Provide documentation on how to setup and run the application.
 
-2. Acceptance Criteria 2: Provide documentation on how to setup and run the application.
+2. Acceptance Criteria 2: Application must download encrypted file from https://kjtrane.github.io/kjtrane/data-file.etf
 
-3. Acceptance Criteria 3: Application must download encrypted file from https://kjtrane.github.io/kjtrane/data-file.etf
+3. Acceptance Criteria 3: Application should not cache encrypted file. (Each time the application is ran, it must download the encrypted file).
 
-4. Acceptance Criteria 4: Application should not cache encrypted file. (Each time the application is ran, it must download the encrypted file).
+4. Acceptance Criteria 4: Application must output all “Data blocks” that are appended to the end of the encrypted file.
 
-5. Acceptance Criteria 5: Application must output all “Data blocks” that are appended to the end of the encrypted file.
-
-6. Acceptance Criteria 6: Time-boxed to 2 hours; Do as much as you can in 2 hours.
 
 #### Data blocks explained
 
@@ -34,9 +33,11 @@ The “data block” data, which is variable in length depending on the 4 bytes 
 
 There are three “data block” types: string, json and date.
 
+
 #### Bonus
 
 Decrypt the file.
+
 
 #### Questions?
 
