@@ -8,7 +8,7 @@
 
 3. Acceptance Criteria 3: Application must download encrypted file from https://kjtrane.github.io/kjtrane/data-file.etf
 
-4. Acceptance Criteria 4: Application must cache encrypted file locally, but for no longer than 24 hours.
+4. Acceptance Criteria 4: Application should not cache encrypted file. (Each time the application is ran, it should download the encrypted file).
 
 5. Acceptance Criteria 5: Application must output all “Data blocks” that are appended to the end of the encrypted file.
 
