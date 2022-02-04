@@ -4,7 +4,7 @@
 
 1. Acceptance Criteria 1: Use any language / framework to accomplish the task.
 
-2. Acceptance Criteria 2: Provide documentation on how to run the code.
+2. Acceptance Criteria 2: Provide documentation on how to setup and run the application.
 
 3. Acceptance Criteria 3: Application must download encrypted file from https://kjtrane.github.io/kjtrane/data-file.etf
 
